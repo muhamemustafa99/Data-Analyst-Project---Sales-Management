@@ -1,4 +1,4 @@
-# Data-Analyst-Project---Sales-Management
+# Data Analyst Project --Sales-Management
 
 ## 🔍 Project Overview
 This interactive **Power BI Dashboard** analyzes a company's sales performance against budget targets and helps identify trends, top products, and key customers. The report uses clean data modeling and DAX measures for visual storytelling and business insights.
