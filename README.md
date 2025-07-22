@@ -1,7 +1,5 @@
 # Data-Analyst-Project---Sales-Management
 
-# 📊 Power BI Sales Dashboard
-
 ## 🔍 Project Overview
 This interactive **Power BI Dashboard** analyzes a company's sales performance against budget targets and helps identify trends, top products, and key customers. The report uses clean data modeling and DAX measures for visual storytelling and business insights.
 
@@ -12,19 +10,19 @@ This interactive **Power BI Dashboard** analyzes a company's sales performance a
   - Monthly sales vs budget performance
   - Top 10 customers & products
   - Sales by product category and customer location
-<img width="1920" height="1080" alt="Screenshot (181)" src="https://github.com/user-attachments/assets/f409a3c1-8f1e-45f4-8c37-a29d71a812f6" />
+<img width="1373" height="845" alt="image" src="https://github.com/user-attachments/assets/5683a33a-6181-49ad-976f-a0fc8e14e622" />
 
 - **Customer Insights**
   - Monthly sales trends per customer
   - Customer region-wise sales heatmap
   - Top 10 customer contribution
-<img width="1920" height="1080" alt="Screenshot (182)" src="https://github.com/user-attachments/assets/844d463a-337d-4ce8-9135-cc88389547a6" />
+<img width="1378" height="848" alt="image" src="https://github.com/user-attachments/assets/924f2999-c565-4319-8d2a-e8ddafffe392" />
 
 - **Product Insights**
   - Monthly product-level breakdown
   - Quantity vs. revenue charts
   - Sales by category and geography
-<img width="1920" height="1080" alt="Screenshot (183)" src="https://github.com/user-attachments/assets/f66c9264-bd7e-459c-9c9c-13caa463271b" />
+<img width="1372" height="852" alt="image" src="https://github.com/user-attachments/assets/a39c2121-04bb-468a-95b6-2f0aa816c287" />
 
 ---
 
