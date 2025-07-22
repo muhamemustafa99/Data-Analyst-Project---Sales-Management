@@ -64,6 +64,10 @@ This interactive **Power BI Dashboard** analyzes a company's sales performance a
 🌍 [LinkedIn Profile](https://www.linkedin.com/in/mohamedmostafa99)  
 💻 [GitHub](https://github.com/muhamemustafa99)
 
+**My Portfolio: ** (https://mohamed5034.wordpress.com/about/)
+
+
+
 ---
 
 Feel free to fork, explore, or reach out if you're interested in collaboration!
