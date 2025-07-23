@@ -1,11 +1,11 @@
 # Data Analyst Project --Sales-Management
 
-## 🔍 Project Overview
+# 🔍 Project Overview
 This interactive **Power BI Dashboard** analyzes a company's sales performance against budget targets and helps identify trends, top products, and key customers. The report uses clean data modeling and DAX measures for visual storytelling and business insights.
 
 ---
 
-## 📌 What's Included
+# 📌 What's Included
 - **Sales Overview Page**
   - Monthly sales vs budget performance
   - Top 10 customers & products
@@ -26,7 +26,7 @@ This interactive **Power BI Dashboard** analyzes a company's sales performance a
 
 ---
 
-## 🧰 Tools & Techniques
+# 🧰 Tools & Techniques
 - Power BI Desktop
 - DAX (Data Analysis Expressions)
 - Power Query for ETL
@@ -35,7 +35,7 @@ This interactive **Power BI Dashboard** analyzes a company's sales performance a
 
 ---
 
-## 📂 Data Sources
+# 📂 Data Sources
 - FACT_InternetSales (transactional data)
 - FACT_Budget (monthly planned sales)
 - DIM_Customers, DIM_Products, DIM_Calendar (dimension tables)
@@ -43,20 +43,20 @@ This interactive **Power BI Dashboard** analyzes a company's sales performance a
 
 ---
 
-## 🔗 Live Dashboard
+# 🔗 Live Dashboard
 
 [🔗 View the dashboard on PowerBI service](#) *(https://app.powerbi.com/groups/me/reports/813322b1-7399-4df5-8d9f-6f58e4f9b34d/ReportSection?experience=power-bi)*
 
 ---
 
-## 💡 Key Learnings
+# 💡 Key Learnings
 - Built complex DAX measures for YTD and budget comparison
 - Created relationships across fact and dimension tables using star schema
 - Improved user interactivity with slicers, tooltips, and conditional formatting
 
 ---
 
-## 👤 Author
+# 👤 Author
 
 **Mohamed Mostafa Mogahed**  
 *BI / Data Analyst*  
